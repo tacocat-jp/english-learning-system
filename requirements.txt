@@ -1,0 +1,6 @@
+ollama
+Pillow
+numpy
+sounddevice
+piper-tts
+faster-whisper
